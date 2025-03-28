@@ -12,8 +12,6 @@
 
 ###
 
-### <img align="center" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlsejVzcTFucWk0NnpuOHQ4b3c2Z2cxM3dicHJpdTQ0Z2gzcGUwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mIZ9rPeMKefm0/giphy.gif"  />
-
 ###
 
 <div align="center">
@@ -37,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/vm3do" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
