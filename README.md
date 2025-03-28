@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Mohammed Ayadi and I'm a Full Stack Developer</h2>
+<h2 align="left">
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I+am+Mohammed+Ayadi!;Full+Stack+Developer;UI/UX+Designer;Graphic+Designer&color=00FF00" alt="GitHub Streak Stats" />
+</div>
+</h2>
 
 ###
 
