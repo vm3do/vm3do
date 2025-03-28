@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/vm3do" target="_blank">
+  <a href="https://discord.com/users/vm3do" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/_vmedo_" target="_blank">
