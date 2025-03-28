@@ -1,6 +1,6 @@
 <h2 align="center">
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mohammed+Ayadi!;Full+Stack+Developer;UI/UX+Designer;Graphic+Designer&color=0077B5&center=true&size=30" alt="GitHub Streak Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mohammed+Ayadi!;Full+Stack+Developer;UI/UX+Designer;Graphic+Designer;Artist&color=0077B5&center=true&size=30" alt="GitHub Streak Stats" />
 </div>
 </h2>
 
