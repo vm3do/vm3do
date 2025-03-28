@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I+am+Mohammed+Ayadi!;Full+Stack+Developer;UI/UX+Designer;Graphic+Designer&color=00FF00" alt="GitHub Streak Stats" />
 </div>
