@@ -1,5 +1,5 @@
 <h2 align="center">
-  <div align="center">
+  <div align="center" width="700" height="300">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mohammed+Ayadi!;Full+Stack+Developer;UI/UX+Designer;Graphic+Designer&color=79FF97&center=true&size=40" alt="GitHub Streak Stats" />
 </div>
 </h2>
