@@ -51,8 +51,8 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/vm3do/vm3do/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ###
