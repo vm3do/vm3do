@@ -5,10 +5,10 @@
 </h2>
 
 ###
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vm3do&show_icons=true&theme=dark" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vm3do&layout=compact&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="195" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
